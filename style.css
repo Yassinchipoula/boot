@@ -1,0 +1,13 @@
+.view img{
+    max-height: 300px;
+    object-fit: cover;
+}
+.card img{
+    max-height: 100%;
+    max-width: 100%;
+    height: 100%;
+}
+.card{
+    -webkit-box-shadow:0 0px 0px 0 rgba(0,0,0,0.16), 0 0px 0px 0 rgba(0,0,0,0.12) !important;
+    box-shadow:0 0px 0px 0 rgba(0,0,0,0.16), 0 0px 0px 0 rgba(0,0,0,0.12) !important;
+}
